@@ -8,7 +8,7 @@
 - **Tools:** Git, VS Code, Figma
 
 ## 📫 Connect with Me
-- 📧 Email: anifowosetemitagmail.com
+- 📧 Email: davidnwabuebo7@gmail.com
 - 🐦 Twitter: [David Nwabuebo](https://x.com/DavidNwabu81309?s=09)
 - 💼 LinkedIn: [my LinkedIn](https://www.linkedin.com/in/david-nwabuebo-651b6123b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
